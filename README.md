@@ -80,7 +80,7 @@ No additional dependencies are required for a basic HTML and CSS project.
 **Himanshu Kumar**
 
 - GitHub: [@himanshu-kumar-2006](https://github.com/himanshu-kumar-2006)
-- LinkedIn: [Himanshu-Kumar](www.linkedin.com/in/himanshu-kumar2006)
+- LinkedIn: www.linkedin.com/in/himanshu-kumar2006
 
 Feel free to connect with me and explore my projects!
 
